@@ -1,0 +1,7 @@
+{
+  "occupancy_class": "warehouse_general",
+  "expected_demo_outcome": "refer",
+  "synthetic": true,
+  "sprinkler_present": true,
+  "generated_risk_score": 26.1
+}

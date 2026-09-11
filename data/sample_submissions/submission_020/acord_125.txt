@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Tampa Restaurant LLC
+Property Address: 68 Market Street, Tampa, FL
+Effective Date: 09/01/2026
+Construction Type: Fire Resistive
+Year Built: 2019
+Total Insured Value (TIV) Requested: 2576000
+
+Description of Operations: Full-service restaurant.
+No automatic sprinkler system reported. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

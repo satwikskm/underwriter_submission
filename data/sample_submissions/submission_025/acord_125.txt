@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Denver Retail Store LLC
+Property Address: 462 Market Street, Denver, CO
+Effective Date: 09/01/2026
+Construction Type: Steel Frame
+Year Built: 1983
+Total Insured Value (TIV) Requested: 2909000
+
+Description of Operations: Retail sale of home goods and furnishings.
+Sprinklered building. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

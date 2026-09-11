@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Dallas Office LLC
+Property Address: 61 Market Street, Dallas, TX
+Effective Date: 09/01/2026
+Construction Type: Joisted Masonry
+Year Built: 1987
+Total Insured Value (TIV) Requested: 2496000
+
+Description of Operations: Professional office and consulting services.
+No automatic sprinkler system reported. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

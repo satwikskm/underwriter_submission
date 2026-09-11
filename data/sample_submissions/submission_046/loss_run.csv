@@ -1,0 +1,5 @@
+claim_id,policy_year,loss_date,cause_of_loss,incurred_amount,status
+C1,2022,2022-06-12,water damage,33000,closed
+C2,2021,2021-06-17,electrical fire,83000,closed
+C3,2020,2020-06-12,electrical fire,193000,closed
+C4,2019,2019-06-20,electrical fire,138000,closed

@@ -1,0 +1,5 @@
+claim_id,policy_year,loss_date,cause_of_loss,incurred_amount,status
+submission_015-C1,2022,2022-05-13,Hail,212000,Open
+submission_015-C2,2021,2021-08-04,Fire,162000,Closed
+submission_015-C3,2020,2020-01-19,Liability,116000,Closed
+submission_015-C4,2019,2019-01-03,Hail,86000,Closed

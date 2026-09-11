@@ -1,0 +1,3 @@
+claim_id,policy_year,loss_date,cause_of_loss,incurred_amount,status
+C1,2022,2022-06-17,kitchen fire,138000,closed
+C2,2021,2021-06-16,kitchen fire,153000,closed

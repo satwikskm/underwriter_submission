@@ -1,0 +1,16 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (simplified demo version)
+
+Named Insured: Rosa's Trattoria Inc
+Property Address: 88 Riverside Drive, Columbus, OH
+Effective Date: 10/15/2026
+Construction Type: Joisted Masonry
+Year Built: 1998
+Total Insured Value (TIV) Requested: 1200000
+
+Description of Operations: Full-service Italian restaurant with on-site
+commercial kitchen, gas range and deep fryers, wood-fired pizza oven.
+Ansul suppression system present. Two prior claims on file, both
+kitchen-fire related.
+
+Broker: Riverside Insurance Partners
+Submission Type: Renewal

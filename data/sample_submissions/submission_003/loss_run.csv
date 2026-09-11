@@ -1,0 +1,4 @@
+claim_id,policy_year,loss_date,cause_of_loss,incurred_amount,status
+CL-2021-102,2021,2021-02-19,Chemical spill / cleanup,55000,closed
+CL-2022-077,2022,2022-11-30,Significant fire loss - storage racking,410000,closed
+CL-2024-033,2024,2024-06-05,Water damage - sprinkler test failure,31000,closed

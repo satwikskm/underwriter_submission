@@ -1,0 +1,6 @@
+{
+  "occupancy_class": "office",
+  "expected_demo_outcome": "auto_quote",
+  "synthetic": true,
+  "risk_profile": "standard"
+}

@@ -1,0 +1,7 @@
+{
+  "occupancy_class": "warehouse_hazardous_storage",
+  "expected_demo_outcome": "auto_decline_candidate",
+  "synthetic": true,
+  "sprinkler_present": false,
+  "generated_risk_score": 100
+}

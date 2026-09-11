@@ -1,0 +1,4 @@
+claim_id,policy_year,loss_date,cause_of_loss,incurred_amount,status
+submission_006-C1,2022,2022-03-23,Theft,11000,Open
+submission_006-C2,2021,2021-03-07,Wind,81000,Closed
+submission_006-C3,2020,2020-07-04,Wind,33000,Open

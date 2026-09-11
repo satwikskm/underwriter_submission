@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Phoenix Restaurant LLC
+Property Address: 383 Market Street, Phoenix, AZ
+Effective Date: 09/01/2026
+Construction Type: Masonry Noncombustible
+Year Built: 1989
+Total Insured Value (TIV) Requested: 713000
+
+Description of Operations: Full-service restaurant.
+No automatic sprinkler system reported. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

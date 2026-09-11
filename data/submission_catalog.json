@@ -1,0 +1,602 @@
+[
+  {
+    "submission_id": "submission_001",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "auto_quote (clean loss history, low-risk construction and occupancy)",
+    "synthetic": false
+  },
+  {
+    "submission_id": "submission_002",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "refer (elevated occupancy risk plus two recent kitchen-fire claims)",
+    "synthetic": false
+  },
+  {
+    "submission_id": "submission_003",
+    "occupancy_class": "warehouse_hazardous_storage",
+    "expected_demo_outcome": "auto_decline_candidate (hazardous storage, frame construction, no sprinklers, heavy loss history)",
+    "synthetic": false
+  },
+  {
+    "submission_id": "submission_004",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_005",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_006",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_007",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_008",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_009",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_010",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_011",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_012",
+    "occupancy_class": "warehouse",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_013",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_014",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_015",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_016",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_017",
+    "occupancy_class": "warehouse",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_018",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_019",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_020",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_021",
+    "occupancy_class": "warehouse",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_022",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_023",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_024",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_025",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_026",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_027",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_028",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_029",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_030",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_031",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_032",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_033",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_034",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_035",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_036",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_037",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_038",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_039",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_040",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_041",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_042",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_043",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_044",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_045",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_046",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_047",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_048",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_049",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_050",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_051",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_052",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_053",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_054",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_055",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_056",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_057",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_058",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_059",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_060",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_061",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_062",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_063",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_064",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_065",
+    "occupancy_class": "warehouse_hazardous_storage",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_066",
+    "occupancy_class": "warehouse_hazardous_storage",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_067",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_068",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_069",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_070",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_071",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_072",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_073",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_074",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_075",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_076",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_077",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_078",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_079",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_080",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_081",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_082",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_083",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_084",
+    "occupancy_class": "retail_store",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_085",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_086",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_087",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_088",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_089",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_090",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_091",
+    "occupancy_class": "warehouse_hazardous_storage",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_092",
+    "occupancy_class": "office",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_093",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_094",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_095",
+    "occupancy_class": "warehouse_general",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_096",
+    "occupancy_class": "restaurant",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_097",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_098",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "auto_quote",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_099",
+    "occupancy_class": "auto_service",
+    "expected_demo_outcome": "refer",
+    "synthetic": true
+  },
+  {
+    "submission_id": "submission_100",
+    "occupancy_class": "light_manufacturing",
+    "expected_demo_outcome": "auto_decline_candidate",
+    "synthetic": true
+  }
+]

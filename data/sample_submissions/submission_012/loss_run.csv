@@ -1,0 +1,5 @@
+claim_id,policy_year,loss_date,cause_of_loss,incurred_amount,status
+submission_012-C1,2022,2022-12-04,Hail,204000,Open
+submission_012-C2,2021,2021-02-10,Theft,117000,Closed
+submission_012-C3,2020,2020-12-24,Wind,30000,Closed
+submission_012-C4,2019,2019-11-10,Hail,57000,Closed

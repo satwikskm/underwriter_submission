@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Denver Auto Service LLC
+Property Address: 56 Market Street, Denver, CO
+Effective Date: 09/01/2026
+Construction Type: Fire Resistive
+Year Built: 2009
+Total Insured Value (TIV) Requested: 811000
+
+Description of Operations: Automotive repair and service.
+No automatic sprinkler system reported. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

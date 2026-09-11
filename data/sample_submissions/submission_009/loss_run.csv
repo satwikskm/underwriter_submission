@@ -1,0 +1,3 @@
+claim_id,policy_year,loss_date,cause_of_loss,incurred_amount,status
+submission_009-C1,2022,2022-08-13,Wind,71000,Closed
+submission_009-C2,2021,2021-01-08,Water,245000,Open

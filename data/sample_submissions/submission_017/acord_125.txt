@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Columbus Warehouse LLC
+Property Address: 829 Market Street, Columbus, OH
+Effective Date: 09/01/2026
+Construction Type: Fire Resistive
+Year Built: 2004
+Total Insured Value (TIV) Requested: 521000
+
+Description of Operations: Wholesale storage and distribution.
+Sprinklered building. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

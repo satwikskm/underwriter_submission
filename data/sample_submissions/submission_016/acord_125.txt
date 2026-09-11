@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Denver Restaurant LLC
+Property Address: 684 Market Street, Denver, CO
+Effective Date: 09/01/2026
+Construction Type: Masonry Noncombustible
+Year Built: 2007
+Total Insured Value (TIV) Requested: 1274000
+
+Description of Operations: Full-service restaurant.
+Sprinklered building. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

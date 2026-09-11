@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Dallas Light Manufacturing LLC
+Property Address: 288 Market Street, Dallas, TX
+Effective Date: 09/01/2026
+Construction Type: Joisted Masonry
+Year Built: 2007
+Total Insured Value (TIV) Requested: 1386000
+
+Description of Operations: Light assembly and manufacturing.
+Sprinklered building. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

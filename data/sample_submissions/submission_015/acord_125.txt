@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Chicago Office LLC
+Property Address: 244 Market Street, Chicago, IL
+Effective Date: 09/01/2026
+Construction Type: Steel Frame
+Year Built: 2008
+Total Insured Value (TIV) Requested: 2784000
+
+Description of Operations: Professional office and consulting services.
+No automatic sprinkler system reported. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

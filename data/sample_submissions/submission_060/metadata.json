@@ -1,0 +1,7 @@
+{
+  "occupancy_class": "retail_store",
+  "expected_demo_outcome": "auto_quote",
+  "synthetic": true,
+  "sprinkler_present": true,
+  "generated_risk_score": 0
+}

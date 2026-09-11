@@ -1,0 +1,5 @@
+claim_id,policy_year,loss_date,cause_of_loss,incurred_amount,status
+C1,2022,2022-06-20,wind,208000,closed
+C2,2021,2021-06-20,water damage,23000,closed
+C3,2020,2020-06-20,wind,133000,closed
+C4,2019,2019-06-24,kitchen fire,73000,closed

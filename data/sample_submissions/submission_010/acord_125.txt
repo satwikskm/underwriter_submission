@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Dallas Office LLC
+Property Address: 929 Market Street, Dallas, TX
+Effective Date: 09/01/2026
+Construction Type: Wood Frame
+Year Built: 2020
+Total Insured Value (TIV) Requested: 1588000
+
+Description of Operations: Professional office and consulting services.
+Sprinklered building. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

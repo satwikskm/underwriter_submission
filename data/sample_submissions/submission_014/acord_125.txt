@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Dallas Retail Store LLC
+Property Address: 496 Market Street, Dallas, TX
+Effective Date: 09/01/2026
+Construction Type: Fire Resistive
+Year Built: 1979
+Total Insured Value (TIV) Requested: 2481000
+
+Description of Operations: Retail sale of home goods and furnishings.
+Sprinklered building. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

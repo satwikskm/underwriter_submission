@@ -1,0 +1,7 @@
+{
+  "occupancy_class": "restaurant",
+  "expected_demo_outcome": "auto_decline_candidate",
+  "synthetic": true,
+  "sprinkler_present": true,
+  "generated_risk_score": 66.9
+}

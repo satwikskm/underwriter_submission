@@ -1,0 +1,17 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (simplified demo version)
+
+Named Insured: Cascade Chemical Storage Corp
+Property Address: 4400 Industrial Parkway, Building C, Tacoma, WA
+Effective Date: 11/01/2026
+Construction Type: Frame
+Year Built: 1979
+Total Insured Value (TIV) Requested: 2500000
+
+Description of Operations: Warehouse storage of industrial cleaning
+chemicals and solvents, including flammable liquids. Older frame
+construction, no automatic sprinkler system currently installed.
+Three claims in the past five years including one significant fire
+loss. Prior carrier declined to renew.
+
+Broker: Pacific Northwest Risk Advisors
+Submission Type: New Business

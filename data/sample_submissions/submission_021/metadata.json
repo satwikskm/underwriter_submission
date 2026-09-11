@@ -1,0 +1,6 @@
+{
+  "occupancy_class": "warehouse",
+  "expected_demo_outcome": "refer",
+  "synthetic": true,
+  "risk_profile": "high"
+}

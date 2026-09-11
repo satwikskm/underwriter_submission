@@ -1,0 +1,15 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (simplified demo version)
+
+Named Insured: Harborview Home Goods LLC
+Property Address: 214 Maple Street, Unit 3, Springfield, IL
+Effective Date: 09/01/2026
+Construction Type: Masonry Noncombustible
+Year Built: 2005
+Total Insured Value (TIV) Requested: 850000
+
+Description of Operations: Retail sale of home goods and furnishings.
+Single-story strip mall unit, no on-site cooking, no hazardous materials
+storage. Sprinklered building. No prior carrier non-renewals on file.
+
+Broker: Lakeside Commercial Insurance Brokers
+Submission Type: New Business

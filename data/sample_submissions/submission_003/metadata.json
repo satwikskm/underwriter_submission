@@ -1,0 +1,4 @@
+{
+  "occupancy_class": "warehouse_hazardous_storage",
+  "expected_demo_outcome": "auto_decline_candidate (hazardous storage, frame construction, no sprinklers, heavy loss history)"
+}

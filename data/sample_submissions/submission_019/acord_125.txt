@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Chicago Retail Store LLC
+Property Address: 281 Market Street, Chicago, IL
+Effective Date: 09/01/2026
+Construction Type: Masonry Noncombustible
+Year Built: 1990
+Total Insured Value (TIV) Requested: 981000
+
+Description of Operations: Retail sale of home goods and furnishings.
+No automatic sprinkler system reported. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

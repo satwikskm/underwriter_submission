@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Austin Light Manufacturing LLC
+Property Address: 628 Market Street, Austin, TX
+Effective Date: 09/01/2026
+Construction Type: Fire Resistive
+Year Built: 1989
+Total Insured Value (TIV) Requested: 2139000
+
+Description of Operations: Light assembly and manufacturing.
+Sprinklered building. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business

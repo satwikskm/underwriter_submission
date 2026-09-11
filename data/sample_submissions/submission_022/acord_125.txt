@@ -1,0 +1,14 @@
+ACORD 125 - COMMERCIAL INSURANCE APPLICATION (synthetic demo submission)
+
+Named Insured: Atlanta Auto Service LLC
+Property Address: 586 Market Street, Atlanta, GA
+Effective Date: 09/01/2026
+Construction Type: Steel Frame
+Year Built: 2004
+Total Insured Value (TIV) Requested: 1595000
+
+Description of Operations: Automotive repair and service.
+Sprinklered building. No hazardous materials beyond normal business operations.
+
+Broker: Demo Commercial Insurance Brokers
+Submission Type: New Business
